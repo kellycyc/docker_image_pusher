@@ -1,8 +1,8 @@
 dongtai/dongtai-redis
 dongtai/dongtai-server            
 dongtai/dongtai-doc-v3            
-dongtai/dongtai-hp-v1             
-#dongtai/dongtai-mysql             
+#dongtai/dongtai-hp-v1             
+dongtai/dongtai-mysql             
 #dongtai/dongtai-docs              
 #dongtai/dongtai-logstash          
 #dongtai/dongtai-java-agent-demo   
