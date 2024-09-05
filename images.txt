@@ -4,5 +4,6 @@ dongtai/dongtai-doc-v3
 dongtai/dongtai-mysql                         
 dongtai/dongtai-logstash          
 dongtai/dongtai-web                    
-dongtai/dongtai-logrotate         
+dongtai/dongtai-logrotate    
+dongtai/dongtai-engine
 
