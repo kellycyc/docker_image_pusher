@@ -6,5 +6,5 @@ dongtai/dongtai-logstash
 dongtai/dongtai-web                    
 dongtai/dongtai-logrotate    
 dongtai/dongtai-engine
-openrasp/iast-cloud/apache-php:7.2
+openrasp/iast-cloud/mongodb3.6 
 
