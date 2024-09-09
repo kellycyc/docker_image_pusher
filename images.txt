@@ -7,4 +7,12 @@ dongtai/dongtai-web
 dongtai/dongtai-logrotate    
 dongtai/dongtai-engine
 python:3.7.4-slim-stretch
+php:7.2-apache
+elasticsearch:6.4.2
+mongo:3.6-stretch
+mysql:5.6
+openjdk:8-stretch
+debian:stretch-slim 
+tomcat:8.5.49-jdk8-openjdk
+webgoat/webgoat-8.0
 
