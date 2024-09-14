@@ -15,4 +15,5 @@ openjdk:8-stretch
 debian:stretch-slim 
 tomcat:8.5.49-jdk8-openjdk
 webgoat/webgoat-8.0
+obsidiandynamics/kafdrop
 
