@@ -17,3 +17,4 @@ tomcat:8.5.49-jdk8-openjdk
 webgoat/webgoat-8.0
 obsidiandynamics/kafdrop
 seawenc/efak:3.0.7
+mysql5.7
