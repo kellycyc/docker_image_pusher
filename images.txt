@@ -20,3 +20,4 @@ seawenc/efak:3.0.7
 nickzurich/efak:3.0.1
 mysql:8.0
 provectuslabs/kafka-ui
+trivadis/cmak
